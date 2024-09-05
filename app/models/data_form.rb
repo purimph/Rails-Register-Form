@@ -1,0 +1,2 @@
+class DataForm < ApplicationRecord
+end
